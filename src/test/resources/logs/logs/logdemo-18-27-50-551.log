@@ -1,0 +1,9 @@
+15:55:41 | [main] |  INFO  | com.Salesgent.Base.base | -> Verify that Edit product /Product List page is loaded properly : PASS
+16:00:16 | [main] |  INFO  | com.Salesgent.Base.base | ->  User login successfully in chrome browser true
+16:00:24 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Products dispay in a Page are: 0
+16:00:34 | [main] |  INFO  | com.Salesgent.Base.base | -> Verify that Edit product /Product List page is loaded properly : PASS
+17:55:46 | [main] |  INFO  | com.Salesgent.Base.base | ->  User login successfully in chrome browser true
+17:55:54 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Products dispay in a Page are: 0
+17:56:04 | [main] |  INFO  | com.Salesgent.Base.base | -> Verify that Edit product /Product List page is loaded properly : PASS
+18:27:32 | [main] |  INFO  | com.Salesgent.Base.base | ->  User login successfully in chrome browser true
+18:27:40 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Products dispay in a Page are: 21

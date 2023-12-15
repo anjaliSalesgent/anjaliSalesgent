@@ -1,0 +1,12 @@
+11:38:14 | [main] |  INFO  | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+11:38:23 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Products dispay in a Page are: 21
+11:38:33 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Product list page load properly: PASS
+11:38:39 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Entered UPC607152845000
+List of serched UPC607152845000
+11:38:39 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Serch UPC verifyed: PASS
+14:08:54 | [main] |  INFO  | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+14:09:02 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Products dispay in a Page are: 21
+14:09:12 | [main] |  INFO  | com.Salesgent.Base.base | -> Product list page load properly: PASS
+14:10:27 | [main] |  INFO  | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+14:10:36 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Entered UPC607152845000
+List of serched UPC607152845000

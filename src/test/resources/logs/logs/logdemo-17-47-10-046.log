@@ -1,0 +1,10 @@
+17:42:23 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC started
+17:43:45 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC started
+17:43:52 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> 607152845000 is match with serched UPC is 607152845000
+17:43:52 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC Successfully
+17:45:05 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC started
+17:45:12 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> 607152845000 is match with serched UPC is 607152845000
+17:45:12 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC Successfully
+17:46:48 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+17:47:03 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC started
+17:47:10 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> 607152845000 is match with serched UPC is 607152845000

@@ -1,0 +1,11 @@
+11:10:46 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Serch UPC verifyed: PASS
+11:28:59 | [main] |  ERROR | com.Salesgent.PageFunctions.LoginFun | -> User not able to login
+11:29:04 | [main] |  ERROR | com.Salesgent.Base.base | -> Verifing user perfom login false
+11:29:09 | [main] |  ERROR | com.Salesgent.PageFunctions.ProductListFun | -> Product list page not found :https://dev.salesgent.xyz/login
+11:29:19 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Product list page load properly: FAIL
+11:33:43 | [main] |  INFO  | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+11:33:51 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Products dispay in a Page are: 21
+11:34:01 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Product list page load properly: PASS
+11:34:08 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Entered UPC607152845000
+List of serched UPC607152845000
+11:34:08 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Serch UPC verifyed: PASS

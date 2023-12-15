@@ -1,0 +1,10 @@
+18:23:05 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+18:27:24 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+18:28:22 | [main] |  ERROR | com.Salesgent.PageFunctions.LoginFun | -> User not able to login
+18:28:22 | [main] |  ERROR | com.Salesgent.Base.base | -> Verifing user perfom login false
+18:29:09 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+18:30:07 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+18:42:57 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+18:43:30 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+18:44:01 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+18:45:37 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
