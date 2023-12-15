@@ -1,0 +1,10 @@
+16:30:28 | [main] |  INFO  | com.Salesgent.Base.base | -> User Login successfully
+16:30:33 | [main] |  ERROR | com.Salesgent.PageFunctions.ProductListFun | -> Product list page not found :https://dev.salesgent.xyz/validate2fa
+16:30:43 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC started
+16:31:28 | [main] |  INFO  | com.Salesgent.Base.base | -> User Login successfully
+16:31:33 | [main] |  ERROR | com.Salesgent.PageFunctions.ProductListFun | -> Product list page not found :https://dev.salesgent.xyz/validate2fa
+16:31:43 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC started
+16:43:06 | [main] |  INFO  | com.Salesgent.Base.base | -> User Login successfully
+16:43:11 | [main] |  ERROR | com.Salesgent.PageFunctions.ProductListFun | -> Product list page not found :https://dev.salesgent.xyz/validate2fa
+16:43:21 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC started
+16:43:59 | [main] |  INFO  | com.Salesgent.Base.base | -> User Login successfully

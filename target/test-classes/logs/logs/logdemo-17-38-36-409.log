@@ -1,0 +1,10 @@
+17:24:56 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC started
+17:25:03 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> 607152845000 is match with serched UPC is 607152845000
+17:25:03 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC Successfully
+17:36:54 | [main] |  ERROR | com.Salesgent.PageFunctions.LoginFun | -> User not able to login
+17:36:54 | [main] |  ERROR | com.Salesgent.Base.base | -> Verifing user perfom login false
+17:37:00 | [main] |  ERROR | com.Salesgent.PageFunctions.ProductListFun | -> Product list page not found :https://dev.salesgent.xyz/login
+17:37:28 | [main] |  ERROR | com.Salesgent.PageFunctions.LoginFun | -> User not able to login
+17:37:28 | [main] |  ERROR | com.Salesgent.Base.base | -> Verifing user perfom login false
+17:37:44 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC started
+17:38:36 | [main] |  ERROR | com.Salesgent.PageFunctions.LoginFun | -> User not able to login

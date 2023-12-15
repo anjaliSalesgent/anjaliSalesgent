@@ -1,0 +1,11 @@
+19:09:03 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+19:10:40 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+19:10:48 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Products dispay in a Page are: 21
+19:10:59 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Entered UPC607152845000
+List of serched UPC607152845000
+19:15:15 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+19:16:34 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+19:18:28 | [main] |  ERROR | com.Salesgent.Base.base | ->  User can perfom login to the Salesgent ERP true
+19:18:36 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Products dispay in a Page are: 21
+19:18:53 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Entered UPC607152845000
+List of serched UPC607152845000

@@ -1,0 +1,10 @@
+17:21:32 | [main] |  ERROR | com.Salesgent.PageFunctions.LoginFun | -> User not able to login
+17:21:32 | [main] |  ERROR | com.Salesgent.Base.base | -> Verifing user perfom login false
+17:21:37 | [main] |  ERROR | com.Salesgent.PageFunctions.ProductListFun | -> Product list page not found :https://dev.salesgent.xyz/login
+17:21:47 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC started
+17:22:09 | [main] |  ERROR | com.Salesgent.PageFunctions.LoginFun | -> User not able to login
+17:22:09 | [main] |  ERROR | com.Salesgent.Base.base | -> Verifing user perfom login false
+17:22:14 | [main] |  ERROR | com.Salesgent.PageFunctions.ProductListFun | -> Product list page not found :https://dev.salesgent.xyz/validate2fa
+17:22:24 | [main] |  INFO  | com.Salesgent.Testcases.TC_ProductList | -> Verifying Search by UPC started
+17:24:41 | [main] |  ERROR | com.Salesgent.PageFunctions.LoginFun | -> User not able to login
+17:24:41 | [main] |  ERROR | com.Salesgent.Base.base | -> Verifing user perfom login false

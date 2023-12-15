@@ -1,0 +1,10 @@
+14:18:49 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Products dispay in a Page are: 21
+14:18:59 | [main] |  INFO  | com.Salesgent.Base.base | -> Verify that Edit product /Product List page is loaded properly : PASS
+14:19:08 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Entered UPC607152845000
+List of serched UPC607152845000
+14:19:08 | [main] |  INFO  | com.Salesgent.Base.base | -> Verify user can find the product by searching the UPC number: PASS
+14:22:47 | [main] |  INFO  | com.Salesgent.Base.base | ->  User login successfully in chrome browser true
+14:22:55 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Products dispay in a Page are: 21
+14:23:05 | [main] |  INFO  | com.Salesgent.Base.base | -> Verify that Edit product /Product List page is loaded properly : PASS
+15:55:23 | [main] |  INFO  | com.Salesgent.Base.base | ->  User login successfully in chrome browser true
+15:55:31 | [main] |  INFO  | com.Salesgent.PageFunctions.ProductListFun | -> Products dispay in a Page are: 0
